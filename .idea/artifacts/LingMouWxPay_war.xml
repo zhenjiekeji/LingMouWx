@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LingMouWxPay:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LingMouWxPay.war">
+      <element id="artifact" artifact-name="LingMouWxPay:war exploded" />
+    </root>
+  </artifact>
+</component>
