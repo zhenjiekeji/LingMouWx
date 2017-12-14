@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # WeChatPay
 微信公众号支付Demo
 简单的maven web工程
@@ -18,3 +19,7 @@
 下一步添加支持星星的个数
 
 >>>>>>> bc5f69fdf7c0ea39d15595c7a50fb6cdae866811
+=======
+# LingMouWx
+>>>>>>> 2a481834fa908d490c5decdc328930ccb0428e72
+# LingMouWx
